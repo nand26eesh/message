@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YourApp</string>
+    <string name="channel_name">SMS Channel</string>
+    <string name="channel_description">Channel for receiving SMS notifications</string>
+</resources>
